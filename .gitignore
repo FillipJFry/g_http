@@ -36,3 +36,6 @@ build
 
 # Database files
 *.db
+
+# Images
+*.jpg
